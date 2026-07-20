@@ -58,7 +58,7 @@ To run this simulation framework, you will need:
 
 1. **Clone** this repository to your local machine:
    ```bash
-   git clone https://github.com
+   git clone https://github.com/gadilsoncandido/dobot_magician.git
    ```
 2. Open the script in the **MATLAB editor**.
 3. **Configure Angles:** Modify the *User Inputs* section to set your desired joint angles (`theta1` to `theta5` in degrees).
