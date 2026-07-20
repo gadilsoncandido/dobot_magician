@@ -2,10 +2,10 @@
 
 ## 📌 Overview
 
-This repository contains a high-fidelity, professional MATLAB script for modeling the kinematics of the **Dobot Magician** robotic arm represented in Figura 1. 
+This repository contains a high-fidelity, professional MATLAB script for modeling the kinematics of the **Dobot Magician** robotic arm shown in Figure 1. 
 
 <p align="center">
-  <img src="imagens/DobotMagician.png" alt="Dobot Magician 3D Model" width="500">
+  <img src="images/DobotMagician.png" alt="Dobot Magician 3D Model" width="500">
    <br>
   <small><i>Figure 1: <a href="https://www.dobot-robots.com/products/education/magician.html" target="_blank">Dobot Magician</a> manipulator.</i></small>  
 </p>
